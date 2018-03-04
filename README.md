@@ -52,5 +52,5 @@ Execution displays a prettytable formatted report of the following (items marked
 
 ## Installation
 1. git clone https://github.com/deadbits/pe-static
-2. cp pe-static/pe-static.py /usr/local/sbin/pe-static && chmod +x /usr/local/sbin/pe-static
-3. run it!
+2. cd pe-static && pip install -r requirements.txt
+3. python setup.py install
