@@ -1,4 +1,4 @@
 bitstring==3.1.5
-yara-python=3.4.0
+yara-python==3.4.0
 pefile==2017.9.3
 ssdeep==3.3
